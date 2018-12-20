@@ -1,4 +1,5 @@
-Description:
+DESCRIPTION
+
 You are given an (almost) empty Grails application with a json file cars.json
 representing an aggregated view about all the current models sold in Italy for Opel, KIA,
 Hyundai and Renault.
@@ -21,7 +22,7 @@ Values: classic, modern, sport, original
 Price: statistical percentile range of the car’s price considering all models in a country
 Values: 1 to 100 (1st percentile, 2nd percentile, ... 100th percentile)
 
-Part 1
+PART 1
 
 Using this information, we would like you to create a JSON based RESTFUL API
 which implements the following requirements:
@@ -34,7 +35,7 @@ parameters: make, model and year.
 able to return cars similar to the one requested. The response should return a limited
 number of cars considered similar to the one provided, based on its characteristics.
 
-Part 2
+PART 2
 
 In the marketing world, a Lead is usually the contact information of a customer who is
 interested in buying a specific product, in this case, a car. A Lead should have all the
