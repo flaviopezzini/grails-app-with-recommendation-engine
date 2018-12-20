@@ -1,0 +1,1336 @@
+[
+  {
+    "attrs": {
+      "carId": "616",
+      "make": "Renault",
+      "model": "Twizy",
+      "submodel": "Citycar 3 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/RENAULT/TWIZY/616_CITYCAR-3-PORTE/twizy.png"
+    },
+    "tags": {
+      "Perceived level": "low cost",
+      "Internal space": "For Singles",
+      "External size": "1 %ile",
+      "Segment": "citycar",
+      "Traction": "posterior",
+      "Roof": "fixed",
+      "Fuel type": "electrical",
+      "Look": "modern",
+      "Trunk": "1 %ile",
+      "Accessibility": "normal",
+      "Price": "1% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "2126",
+      "make": "KIA",
+      "model": "Picanto",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/KIA/PICANTO/2126_BERLINA-2-VOL-5-PORTE/15000502-kia-picanto-pe-brochuremy15-ita24p280x225lr.pdf"
+    },
+    "tags": {
+      "Perceived level": "economy",
+      "Internal space": "2-4 people",
+      "External size": "6 %ile",
+      "Segment": "citycar",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "13 %ile",
+      "Accessibility": "reduced",
+      "Price": "2% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "566",
+      "make": "Renault",
+      "model": "Captur",
+      "submodel": "SUV 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/RENAULT/CAPTUR/566_SUV-5-PORTE/captur.png"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "23 %ile",
+      "Segment": "crossover",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "original",
+      "Trunk": "61 %ile",
+      "Accessibility": "accessible",
+      "Price": "22% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "615",
+      "make": "Renault",
+      "model": "Laguna",
+      "submodel": "coupé 2 porte",
+      "year": "2013",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/RENAULT/LAGUNA/615_COUPE-2-PORTE/laguna-coupe-2-porte.png"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "66 %ile",
+      "Segment": "berlina-3v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "55 %ile",
+      "Accessibility": "reduced",
+      "Price": "46% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "328",
+      "make": "Opel",
+      "model": "Astra",
+      "submodel": "berlina 3 vol. 4 porte",
+      "year": "2016",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/OPEL/ASTRA/328_BERLINA-3-VOL-4-PORTE/nuova-opel-astra-sedan.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "69 %ile",
+      "Segment": "berlina-3v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "classic",
+      "Trunk": "45 %ile",
+      "Accessibility": "normal",
+      "Price": "27% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1293",
+      "make": "Hyundai",
+      "model": "i10",
+      "submodel": "City car 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/HYUNDAI/I10/1293_CITY-CAR-5-PORTE/hyundai-i10-3.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "2-4 people",
+      "External size": "7 %ile",
+      "Segment": "citycar",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "16 %ile",
+      "Accessibility": "reduced",
+      "Price": "5% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "323",
+      "make": "Opel",
+      "model": "Adam",
+      "submodel": "berlina 2 vol. 3 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/OPEL/ADAM/323_BERLINA-2-VOL-3-PORTE/opel-adam-13.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "For Singles",
+      "External size": "8 %ile",
+      "Segment": "citycar",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "original",
+      "Trunk": "9 %ile",
+      "Accessibility": "reduced",
+      "Price": "13% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1410",
+      "make": "KIA",
+      "model": "Rio",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/KIA/RIO/1410_BERLINA-2-VOL-5-PORTE/rio-7.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "2-4 people",
+      "External size": "19 %ile",
+      "Segment": "compact",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "40 %ile",
+      "Accessibility": "normal",
+      "Price": "9% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1411",
+      "make": "KIA",
+      "model": "Rio",
+      "submodel": "berlina 2 vol. 3 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/KIA/RIO/1411_BERLINA-2-VOL-3-PORTE/rio-3p-1.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "2-4 people",
+      "External size": "19 %ile",
+      "Segment": "compact",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "40 %ile",
+      "Accessibility": "reduced",
+      "Price": "2% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1956",
+      "make": "Opel",
+      "model": "Karl",
+      "submodel": "Citycar 5 Porte",
+      "year": "2016",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/OPEL/KARL/1956_CITYCAR-5-PORTE/opel-karl-foto-6.jpeg"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "7 %ile",
+      "Segment": "citycar",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "16 %ile",
+      "Accessibility": "normal",
+      "Price": "2% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1968",
+      "make": "Hyundai",
+      "model": "i30",
+      "submodel": "2 volumi 3 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/HYUNDAI/I30/1968_2-VOLUMI-3-PORTE/i30.png"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "34 %ile",
+      "Segment": "berlina-3v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "diesel",
+      "Look": "modern",
+      "Trunk": "46 %ile",
+      "Accessibility": "reduced",
+      "Price": "27% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1967",
+      "make": "Hyundai",
+      "model": "i30",
+      "submodel": "Wagon 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/HYUNDAI/I30/1967_WAGON-5-PORTE/i30-wagon-7.jpeg"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "5 people comfort",
+      "External size": "51 %ile",
+      "Segment": "station",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "diesel",
+      "Look": "modern",
+      "Trunk": "80 %ile",
+      "Accessibility": "normal",
+      "Price": "26% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1979",
+      "make": "Hyundai",
+      "model": "ix20",
+      "submodel": "monov. comp. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/HYUNDAI/IX20/1979_MONOV-COMP-5-PORTE/ix20-2.jpeg"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "22 %ile",
+      "Segment": "monovolume",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "58 %ile",
+      "Accessibility": "normal",
+      "Price": "19% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1966",
+      "make": "Hyundai",
+      "model": "i30",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/HYUNDAI/I30/1966_BERLINA-2-VOL-5-PORTE/i30-5p-8.jpeg"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "34 %ile",
+      "Segment": "berlina-2v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "diesel",
+      "Look": "modern",
+      "Trunk": "46 %ile",
+      "Accessibility": "accessible",
+      "Price": "24% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1341",
+      "make": "Opel",
+      "model": "Corsa",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2016",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/OPEL/CORSA/1341_BERLINA-2-VOL-5-PORTE/corsa-profilo.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "2-4 people",
+      "External size": "17 %ile",
+      "Segment": "compact",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "27 %ile",
+      "Accessibility": "normal",
+      "Price": "14% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "387",
+      "make": "Renault",
+      "model": "Mégane Coupé",
+      "submodel": "coupé 3 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/RENAULT/MEGANE/387_COUPE-3-PORTE/meganecoupe-41.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "2-4 people",
+      "External size": "36 %ile",
+      "Segment": "berlina-2v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "sport",
+      "Trunk": "46 %ile",
+      "Accessibility": "normal",
+      "Price": "23% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1276",
+      "make": "Renault",
+      "model": "Nuova Twingo",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/RENAULT/TWINGO/1276_BERLINA-2-VOL-5-PORTE/nuovatwingo-5.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "2-4 people",
+      "External size": "6 %ile",
+      "Segment": "citycar",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "original",
+      "Trunk": "12 %ile",
+      "Accessibility": "reduced",
+      "Price": "7% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1204",
+      "make": "KIA",
+      "model": "Soul",
+      "submodel": "crossover 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/KIA/SOUL/1204_CROSSOVER-5-PORTE/soul.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "23 %ile",
+      "Segment": "crossover",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "original",
+      "Trunk": "39 %ile",
+      "Accessibility": "accessible",
+      "Price": "22% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "329",
+      "make": "Opel",
+      "model": "Astra",
+      "submodel": "wagon 5 porte",
+      "year": "2016",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/OPEL/ASTRA/329_5-PORTE/opel-astra-sports-tourer-13.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "73 %ile",
+      "Segment": "station",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "72 %ile",
+      "Accessibility": "normal",
+      "Price": "29% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "339",
+      "make": "Opel",
+      "model": "Zafira Tourer",
+      "submodel": "monov. comp. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/OPEL/ZAFIRA-TOURER/339_MONOV-COMP-5-PORTE/zafira-tourer.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "7 seats",
+      "External size": "69 %ile",
+      "Segment": "monovolume",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "original",
+      "Trunk": "7 %ile",
+      "Accessibility": "accessible",
+      "Price": "43% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "337",
+      "make": "Opel",
+      "model": "Mokka",
+      "submodel": "SUV 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/OPEL/MOKKA/337_SUV-5-PORTE/mokka.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "32 %ile",
+      "Segment": "crossover",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "41 %ile",
+      "Accessibility": "accessible",
+      "Price": "32% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "392",
+      "make": "Renault",
+      "model": "Zoe",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/RENAULT/ZOE/392_BERLINA-2-VOL-5-PORTE/zoe.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "21 %ile",
+      "Segment": "compact",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "electrical",
+      "Look": "modern",
+      "Trunk": "38 %ile",
+      "Accessibility": "normal",
+      "Price": "28% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "690",
+      "make": "KIA",
+      "model": "Sportage",
+      "submodel": "crossover 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/KIA/SPORTAGE/690_CROSSOVER-5-PORTE/sportage.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "48 %ile",
+      "Segment": "suv",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "87 %ile",
+      "Accessibility": "accessible",
+      "Price": "36% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "622",
+      "make": "Renault",
+      "model": "Laguna",
+      "submodel": "wagon 5 porte",
+      "year": "2013",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/RENAULT/LAGUNA/622_WAGON-5-PORTE/laguna-wagon.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "80 %ile",
+      "Segment": "station",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "76 %ile",
+      "Accessibility": "normal",
+      "Price": "53% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "621",
+      "make": "Renault",
+      "model": "Grand Kangoo",
+      "submodel": "monovolume compatto",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/RENAULT/GRAND-KANGOO/621_MONOVOLUME-COMPATTO/promozioni-renault-grand-kangoo.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "7 seats",
+      "External size": "72 %ile",
+      "Segment": "monovolume",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "30 %ile",
+      "Accessibility": "normal",
+      "Price": "25% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "619",
+      "make": "Renault",
+      "model": "Grand Scenic",
+      "submodel": "monovolume compatto 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/RENAULT/GRAND-SCENIC/619_MONOVOLUME-COMPATTO-5-PORTE/scenic-6.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "7 seats",
+      "External size": "58 %ile",
+      "Segment": "monovolume",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "14 %ile",
+      "Accessibility": "accessible",
+      "Price": "39% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "501",
+      "make": "Renault",
+      "model": "Clio",
+      "submodel": "wagon 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/RENAULT/CLIO/501_WAGON-5-PORTE/promozioni-renault-clio-sporter.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "31 %ile",
+      "Segment": "station",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "58 %ile",
+      "Accessibility": "normal",
+      "Price": "18% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "562",
+      "make": "KIA",
+      "model": "Carens",
+      "submodel": "monov. comp. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/KIA/CARENS/562_MONOV-COMP-5-PORTE/carens.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "7 seats",
+      "External size": "55 %ile",
+      "Segment": "monovolume",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "71 %ile",
+      "Accessibility": "accessible",
+      "Price": "35% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "662",
+      "make": "Opel",
+      "model": "Meriva",
+      "submodel": "monov. comp. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/OPEL/MERIVA/662_MONOV-COMP-5-PORTE/meriva.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "33 %ile",
+      "Segment": "monovolume",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "original",
+      "Trunk": "51 %ile",
+      "Accessibility": "accessible",
+      "Price": "23% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "631",
+      "make": "Opel",
+      "model": "Insignia",
+      "submodel": "berlina 3 vol. 4 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/OPEL/INSIGNIA/631_BERLINA-3-VOL-4-PORTE/insignia-berlina.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "84 %ile",
+      "Segment": "berlina-3v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "72 %ile",
+      "Accessibility": "normal",
+      "Price": "52% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "632",
+      "make": "Opel",
+      "model": "Insignia",
+      "submodel": "station wagon 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/OPEL/INSIGNIA/632_STATION-WAGON-5-PORTE/insignia-wagon.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "5 people comfort",
+      "External size": "91 %ile",
+      "Segment": "station",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "83 %ile",
+      "Accessibility": "normal",
+      "Price": "54% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "618",
+      "make": "Renault",
+      "model": "Scenic X-Mod",
+      "submodel": "monov. comp. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/RENAULT/SCENIC/618_MONOV-COMP-5-PORTE/promozioni-renault-scenic-x-mod.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "42 %ile",
+      "Segment": "monovolume",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "57 %ile",
+      "Accessibility": "accessible",
+      "Price": "34% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "630",
+      "make": "Opel",
+      "model": "Insignia Country Tourer",
+      "submodel": "crossover 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/OPEL/INSIGNIA-COUNTRY-TOURER/630_CROSSOVER-5-PORTE/opel-insignia-country-tourer.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "5 people comfort",
+      "External size": "91 %ile",
+      "Segment": "station",
+      "Traction": "4x4",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "83 %ile",
+      "Accessibility": "normal",
+      "Price": "60% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "521",
+      "make": "Opel",
+      "model": "Cascada",
+      "submodel": "cabriolet 2 porte",
+      "year": "2016",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/OPEL/CASCADA/521_CABRIOLET/opel-cascada-8.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "73 %ile",
+      "Segment": "berlina-3v",
+      "Traction": "anterior",
+      "Roof": "tela",
+      "Fuel type": "gasoline",
+      "Look": "classic",
+      "Trunk": "47 %ile",
+      "Accessibility": "reduced",
+      "Price": "55% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "620",
+      "make": "Renault",
+      "model": "Kangoo",
+      "submodel": "monovolume compatto 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/RENAULT/KANGOO/620_MONOVOLUME-COMPATTO-5-PORTE/kangoo.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "5 people comfort",
+      "External size": "35 %ile",
+      "Segment": "monovolume",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "95 %ile",
+      "Accessibility": "accessible",
+      "Price": "21% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1396",
+      "make": "Renault",
+      "model": "Espace",
+      "submodel": "CROSSOVER 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/RENAULT/GRAND-ESPACE/1396_MONOVOLUME-5-PORTE/renault-nuovo-espace-brochure-marzo-2015.pdf"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "7 seats",
+      "External size": "87 %ile",
+      "Segment": "crossover",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "95 %ile",
+      "Accessibility": "normal",
+      "Price": "61% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "331",
+      "make": "Opel",
+      "model": "Combo Tour",
+      "submodel": "monov. comp. 5 porte",
+      "year": "2014",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/OPEL/COMBO/331_MONOV-COMP-5-PORTE/nuova-opel-combo.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "7 seats",
+      "External size": "45 %ile",
+      "Segment": "monovolume",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "98 %ile",
+      "Accessibility": "normal",
+      "Price": "24% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "375",
+      "make": "Renault",
+      "model": "Clio",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/RENAULT/CLIO/375_BERLINA-2-VOL-5-PORTE/clio5porte-30.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "20 %ile",
+      "Segment": "compact",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "30 %ile",
+      "Accessibility": "normal",
+      "Price": "18% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1408",
+      "make": "KIA",
+      "model": "Sorento",
+      "submodel": "SUV 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/KIA/SORENTO/1408_SUV-5-PORTE/sorento.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "5 people comfort",
+      "External size": "78 %ile",
+      "Segment": "suv",
+      "Traction": "4x4",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "91 %ile",
+      "Accessibility": "accessible",
+      "Price": "63% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1415",
+      "make": "KIA",
+      "model": "Venga",
+      "submodel": "monov. comp. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/KIA/VENGA/1415_MONOV-COMP-5-PORTE/venga-5.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "21 %ile",
+      "Segment": "monovolume",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "58 %ile",
+      "Accessibility": "accessible",
+      "Price": "17% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1391",
+      "make": "Hyundai",
+      "model": "i20",
+      "submodel": "Coupé 3 Porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/HYUNDAI/I20/1391_COUPE-3-PORTE/hyundai-i20-coupe-foto-6.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "18 %ile",
+      "Segment": "utilitarian",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "38 %ile",
+      "Accessibility": "reduced",
+      "Price": "15% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1978",
+      "make": "Hyundai",
+      "model": "i40",
+      "submodel": "Wagon 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/HYUNDAI/I40/1978_WAGON-5-PORTE/i40-wagon.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "5 people comfort",
+      "External size": "78 %ile",
+      "Segment": "station",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "diesel",
+      "Look": "modern",
+      "Trunk": "85 %ile",
+      "Accessibility": "normal",
+      "Price": "46% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "326",
+      "make": "Opel",
+      "model": "Antara",
+      "submodel": "SUV 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/OPEL/ANTARA/326_SUV-5-PORTE/antara.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "5 people comfort",
+      "External size": "59 %ile",
+      "Segment": "suv",
+      "Traction": "4x4",
+      "Roof": "fixed",
+      "Fuel type": "diesel",
+      "Look": "modern",
+      "Trunk": "54 %ile",
+      "Accessibility": "normal",
+      "Price": "40% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "2056",
+      "make": "Opel",
+      "model": "Astra",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2016",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/OPEL/ASTRA/2056_BERLINA-2-VOL-5-PORTE/astra-5p.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "41 %ile",
+      "Segment": "berlina-3v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "45 %ile",
+      "Accessibility": "normal",
+      "Price": "25% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "2072",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "submodel": "SUV 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/HYUNDAI/TUCSON/2072_SUV-5-PORTE/tucson.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "5 people comfort",
+      "External size": "51 %ile",
+      "Segment": "suv",
+      "Traction": "4x4",
+      "Roof": "fixed",
+      "Fuel type": "diesel",
+      "Look": "modern",
+      "Trunk": "78 %ile",
+      "Accessibility": "accessible",
+      "Price": "41% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1364",
+      "make": "Hyundai",
+      "model": "i20",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/HYUNDAI/I20/1364_BERLINA-2-VOL-5-PORTE/i20d.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "18 %ile",
+      "Segment": "compact",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "36 %ile",
+      "Accessibility": "normal",
+      "Price": "13% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "664",
+      "make": "KIA",
+      "model": "Pro cee'd",
+      "submodel": "berlina 2 vol. 3 porte",
+      "year": "2013",
+      "img": "http://cdn.drivek.it/configurator-icon/cars/it/200/KIA/PRO-CEED/664_BERLINA-2-VOL-3-PORTE/proceed-100.png"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "2-4 people",
+      "External size": "35 %ile",
+      "Segment": "berlina-2v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "sport",
+      "Trunk": "47 %ile",
+      "Accessibility": "reduced",
+      "Price": "41% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "330",
+      "make": "Opel",
+      "model": "Astra GTC",
+      "submodel": "berlina 2 vol. 3 porte",
+      "year": "2016",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/OPEL/ASTRA/330_3-PORTE/opel-astra-gtc-test_8.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "2-4 people",
+      "External size": "51 %ile",
+      "Segment": "berlina-2v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "sport",
+      "Trunk": "47 %ile",
+      "Accessibility": "normal",
+      "Price": "38% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "663",
+      "make": "Renault",
+      "model": "Mégane",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/RENAULT/MEGANE/663_BERLINA-2-VOL-5-PORTE/megane5porte-14.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "35 %ile",
+      "Segment": "berlina-2v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "52 %ile",
+      "Accessibility": "normal",
+      "Price": "22% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1981",
+      "make": "Renault",
+      "model": "Kadjar",
+      "submodel": "crossover",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/RENAULT/KADJAR/1981_CROSSOVER/renault-kadjar-1.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "49 %ile",
+      "Segment": "crossover",
+      "Traction": "4x4",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "65 %ile",
+      "Accessibility": "accessible",
+      "Price": "37% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1342",
+      "make": "Opel",
+      "model": "Corsa",
+      "submodel": "coupè 3 porte",
+      "year": "2016",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/OPEL/CORSA/1342_COUPE-3-PORTE/opel-corsa-coupe-tre-porte.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "17 %ile",
+      "Segment": "utilitarian",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "sport",
+      "Trunk": "27 %ile",
+      "Accessibility": "reduced",
+      "Price": "12% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "2127",
+      "make": "KIA",
+      "model": "Cee'd",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2016",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/KIA/CEED/2127_BERLINA-2-VOL-5-PORTE/15000904-kia-ceed-brochure.pdf"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "35 %ile",
+      "Segment": "berlina-2v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "47 %ile",
+      "Accessibility": "normal",
+      "Price": "22% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "2128",
+      "make": "KIA",
+      "model": "Cee'd",
+      "submodel": "wagon 5 porte",
+      "year": "2016",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/KIA/CEED/2128_WAGON-5-PORTE/15000904-kia-ceed-brochure.pdf"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "5 people comfort",
+      "External size": "54 %ile",
+      "Segment": "station",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "80 %ile",
+      "Accessibility": "normal",
+      "Price": "24% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "2704",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "submodel": "SUV 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/HYUNDAI/SANTA-FE/2704_SUV-5-PORTE/hyundai-santa-fe-facelift-2016.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "5 people comfort",
+      "External size": "72 %ile",
+      "Segment": "suv",
+      "Traction": "4x4",
+      "Roof": "fixed",
+      "Fuel type": "diesel",
+      "Look": "modern",
+      "Trunk": "89 %ile",
+      "Accessibility": "normal",
+      "Price": "65% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "2718",
+      "make": "Renault",
+      "model": "Talisman",
+      "submodel": "berlina 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/RENAULT/TALISMAN/2718_BERLINA-5-PORTE/renault-talisman.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "5 people comfort",
+      "External size": "85 %ile",
+      "Segment": "berlina-3v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "diesel",
+      "Look": "modern",
+      "Trunk": "91 %ile",
+      "Accessibility": "normal",
+      "Price": "54% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "2715",
+      "make": "KIA",
+      "model": "Soul EV",
+      "submodel": "crossover 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/KIA/SOUL-EV/2715_CROSSOVER-5-PORTE/kia-soul-ev-2016-eco-electric.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "4 people comfort",
+      "External size": "23 %ile",
+      "Segment": "crossover",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "electrical",
+      "Look": "modern",
+      "Trunk": "27 %ile",
+      "Accessibility": "normal",
+      "Price": "56% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "689",
+      "make": "Renault",
+      "model": "Mégane",
+      "submodel": "wagon 5 porte",
+      "year": "2015",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/RENAULT/MEGANE/689_WAGON-5-PORTE/meganesw-1.jpg"
+    },
+    "tags": {
+      "Perceived level": "mass market high",
+      "Internal space": "5 people comfort",
+      "External size": "59 %ile",
+      "Segment": "station",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "80 %ile",
+      "Accessibility": "normal",
+      "Price": "24% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1972",
+      "make": "Hyundai",
+      "model": "Genesis",
+      "submodel": "berlina 3 vol. 4 porte",
+      "year": "2014",
+      "img": "http://cdn.drivek.it/configurator-imgs/cars/it/200/HYUNDAI/GENESIS/1972_BERLINA-3-VOL-4-PORTE/genesis-catalogo-2014-web.pdf"
+    },
+    "tags": {
+      "Perceived level": "premium",
+      "Internal space": "5 people comfort",
+      "External size": "95 %ile",
+      "Segment": "berlina-3v",
+      "Traction": "4x4",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "57 %ile",
+      "Accessibility": "normal",
+      "Price": "82% percentile"
+    }
+  }
+]

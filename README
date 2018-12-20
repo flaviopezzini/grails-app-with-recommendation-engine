@@ -1,0 +1,56 @@
+Description:
+You are given an (almost) empty Grails application with a json file cars.json
+representing an aggregated view about all the current models sold in Italy for Opel, KIA,
+Hyundai and Renault.
+A car can be characterized by a set of categories, each corresponding to a given car
+property such as “Look”, “Fuel Type” and “Segment”. In all of these categories, there is an
+arbitrary number of tags that describe all the possibilities for that category, such as “modern”,
+“classic” or “original” for the “Look” category. Every car is represented by a set of these tags.
+From all the categories you will find in the input file, for this project, you should only consider
+the following:
+Internal Space: describes the available seating space in the car
+Values: for single, 2­4 people, 4 people comfort, 5 people confort, 7 seats, > 7 seats
+Segment: the type of car
+Values: citycar, utilitarian, compact, crossover, berlina­2v, berlina­3v, station,
+monovolume, suv, supercar
+Fuel type: the fuel used to power the car
+Values: gasoline, gpl, gas, hybrid, electrical, diesel
+
+Look: subjective appreciation of its look
+Values: classic, modern, sport, original
+Price: statistical percentile range of the car’s price considering all models in a country
+Values: 1 to 100 (1st percentile, 2nd percentile, ... 100th percentile)
+
+Part 1
+
+Using this information, we would like you to create a JSON based RESTFUL API
+which implements the following requirements:
+● Using the provided in­memory database (check “Database Access annex”) import the
+JSON file into the appropriate domain entities and store them;
+● An endpoint to returns all existing makes in your system;
+● A simple search endpoint that lets you search for cars based on the following optional
+parameters: make, model and year.
+● Based on the car dimensions/tags, devise a creative recommendation­engine that is
+able to return cars similar to the one requested. The response should return a limited
+number of cars considered similar to the one provided, based on its characteristics.
+
+Part 2
+
+In the marketing world, a Lead is usually the contact information of a customer who is
+interested in buying a specific product, in this case, a car. A Lead should have all the
+necessary contact information in order to allow the person interested to be contacted later on,
+such as Name, Surname and Phone. Your system should thus:
+
+● Provide an endpoint that receives all the above information and creates a Lead
+for a given car
+● Provide the ability to cancel the above Lead, in order to prevent the user from
+being contacted
+
+A Lead also has different states, as represented by the following workflow:
+
+Considering this:
+
+● Create an endpoint that can update the lead status following the required
+workflow. For the specific case of when the lead passes from Valid to Sold, the
+system should also be able to receive the date in which the product was bought
+and store it.
